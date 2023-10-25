@@ -35,7 +35,7 @@ In the analysis of the timestamps associated with the emails, several key observ
 | Mean  | 1.44 seconds  |	
 | Standard Deviation | 1.17 seconds |
 | Minimum	| 0 second |
-| 25th Percentile	1 second |
+| 25th Percentile	| 1 second |
 | Median (50th Percentile) |	1 second |
 | 75th Percentile |	2 seconds |
 | Maximum	| 5 seconds |
